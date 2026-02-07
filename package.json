@@ -1,0 +1,9 @@
+{
+  "name": "valentienstag",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Romantic valentines landing page",
+  "scripts": {
+    "start": "python -m http.server $PORT"
+  }
+}
